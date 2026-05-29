@@ -19,6 +19,12 @@ const LANGS = {
     suggestions: ['Show daily itinerary', 'Hotels & accommodation', "What's included?", 'Flight details', 'Carnival programme', 'Guide contacts'],
     sysLang: 'ALWAYS respond in English. Be friendly, precise and enthusiastic. Use emojis sparingly.',
   },
+  es: {
+    placeholder: 'Haz una pregunta sobre el viaje...',
+    welcome: '¡Bienvenido! Soy tu asistente de viaje personal para **[NOMBRE DEL VIAJE]**.\n\nEstoy aquí para ayudarte durante los **[X] días de Carnaval** en Brasil.\n\n**¿En qué puedo ayudarte hoy?**',
+    suggestions: ['Ver itinerario día a día', 'Hoteles y alojamientos', '¿Qué está incluido?', 'Detalles de vuelos', 'Programa de Carnaval', 'Contactos de guías'],
+    sysLang: 'Responde SIEMPRE en español. Sé amigable, preciso y entusiasta. Usa emojis con moderación.',
+  },
 }
 
 const TRIP = `OPERATOR: [OPERATOR NAME] | [WEBSITE] | [PHONE] | [EMAIL]
@@ -50,6 +56,7 @@ const ERROR_MSGS = {
   de: 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Reiseveranstalter.',
   pt: 'Ocorreu um erro. Tente novamente ou contate a operadora de viagem.',
   en: 'An error occurred. Please try again or contact the tour operator.',
+  es: 'Ocurrió un error. Inténtalo de nuevo o contacta al operador turístico.',
 }
 
 function BubbleText({ text }) {
@@ -176,13 +183,13 @@ export default function App() {
           <span className="pill">🌴 [CIDADE 4]</span>
         </div>
         <div className="lang-bar">
-          {['de', 'pt', 'en'].map(l => (
+          {['de', 'pt', 'en', 'es'].map(l => (
             <button
               key={l}
               className={`lang-btn${lang === l ? ' active' : ''}`}
               onClick={() => switchLang(l)}
             >
-              {l === 'de' ? '🇩🇪 Deutsch' : l === 'pt' ? '🇧🇷 Português' : '🇬🇧 English'}
+              {l === 'de' ? '🇩🇪 Deutsch' : l === 'pt' ? '🇧🇷 Português' : l === 'en' ? '🇬🇧 English' : '🇪🇸 Español'}
             </button>
           ))}
         </div>
