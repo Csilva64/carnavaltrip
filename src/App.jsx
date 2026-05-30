@@ -27,55 +27,108 @@ const LANGS = {
   },
 }
 
-const TRIP = `TRIP: Rio Carnival 2027 – Different Roads
-OPERATOR: OPCO Tours | opcotours.com | +5521-97565-5173 | carlos@opcotours.com
-DURATION: 8 days / 7 nights | GROUP: 20-40 pax | GUIDES: Bilingual Spanish/Portuguese
-WETU ITINERARY: https://wetu.com/Itinerary/Landing/405DEAC8-D735-4AFB-8A9E-F2BE6D43D9CB
-
-DESTINATION: Rio de Janeiro, Brazil
+const TRIP = `TRIP: Rio Carnival 2027 - Different Roads
+ROUTE: Rio de Janeiro - Angra dos Reis
+OPERATOR: OPCO Tours | opcotours.com | +5521-97565-5173 | carlos@opcotours.com | Contact: Carlos Silva
+DURATION: 8 days / 7 nights | GROUP: 20, 30 or 40 pax | GUIDES: Spanish/Portuguese-speaking local guide throughout
 
 HOTEL:
-Grand Mercure Rio de Janeiro Copacabana — 7 nights, Bed & Breakfast
-(Iconic hotel on Copacabana beachfront)
+Grand Mercure Rio de Janeiro Copacabana - 7 nights, Bed & Breakfast
+Address: Avenida Atlantica 3716, Rio de Janeiro | Tel: +55 21 3545-5400
+Opposite Copacabana beach, near Ipanema & Leblon. A/C, cable TV, minibar, some ocean-view rooms. Breakfast at Forno e Fogao restaurant.
 
-ITINERARY OVERVIEW:
-Day 1 - ARRIVAL RIO: Transfer from airport to Grand Mercure Copacabana. Check-in. Welcome briefing with guide.
-Day 2 - RIO SIGHTSEEING: Christ the Redeemer (Corcovado) + Sugarloaf Mountain guided tour. Afternoon free.
-Day 3 - CARNIVAL BLOCOS: Street Carnival blocos experience with bilingual guide. Rio's famous street parties.
-Day 4 - CARNIVAL BLOCOS: More blocos experiences. Free time to explore Ipanema/Copacabana.
-Day 5 - SAMBÓDROMO NIGHT 1: Grandstand seating Sector 9. Watch the Samba Schools parade.
-Day 6 - SAMBÓDROMO NIGHT 2 (if applicable) or free day. Optional activities.
-Day 7 - RIO FREE DAY: Beach, Santa Teresa, Lapa, local markets. Farewell dinner (included, with group transfer).
-Day 8 - DEPARTURE: Transfer to airport. End of services.
+FLIGHTS (reference):
+Outbound: Iberia IB269 - Madrid Barajas (MAD) 11:50 -> Rio Galeao (GIG) 18:15
+Return: Iberia IB270 - Rio Galeao (GIG) 19:15 (next-day arrival)
 
-INCLUDED:
-- All group transfers (airport, tours, Sambódromo, farewell dinner)
-- Guided sightseeing: Christ the Redeemer + Sugarloaf Mountain
-- Blocos street Carnival experiences with bilingual guide
-- Sambódromo grandstand seating — Sector 9
-- Bilingual Spanish/Portuguese-speaking guides throughout
-- 7 nights at Grand Mercure Rio de Janeiro Copacabana (B&B)
+TRANSFERS INCLUDED:
+- Rio Galeao Airport (GIG) -> Grand Mercure Copacabana (arrival Day 1)
+- Grand Mercure Copacabana -> Rio Galeao Airport (GIG) (departure Day 8)
 
-NOT INCLUDED:
+--- DAY BY DAY ITINERARY ---
+
+Day 1 - ARRIVAL IN RIO DE JANEIRO | Welcome to the Cidade Maravilhosa
+Arrival at Galeao International Airport (GIG). Dedicated group transfer to Grand Mercure Copacabana. Check-in + welcome briefing with local guide (Rio's rhythm, neighbourhoods, essential Carnival tips). Evening free: stroll Copacabana Beach, caipirinha at a traditional bar or beach kiosk. The electric energy of Carnival is already in the air.
+INCLUDED: Airport group transfer | Hotel check-in | Welcome briefing
+TIP: It is Carnival. Rio is a big city. Keep jewellery at home or in the hotel safety deposit box.
+
+Day 2 - RIO ICONIC HIGHLIGHTS
+Ascend Corcovado Mountain (700m+) to stand at the feet of Christ the Redeemer - panoramic views of Copacabana, Ipanema, Leblon beaches, Flamengo stadium and Niteroi Bridge. Then cable car up Sugarloaf Mountain (Urca Hill, 3-minute spectacular ride) for sweeping views of the Atlantic coastline and Guanabara Bay.
+ACTIVITIES: Corcovado Mountain | Sugar Loaf Cable Car
+INCLUDED: Guided tour Christ the Redeemer + Sugarloaf | Group transport
+
+Day 3 - RIO STREET CARNIVAL - THE BLOCOS EXPERIENCE
+Guide leads the group to one of Rio's most celebrated blocos de rua (street carnival bands). A moving street party through the heart of Rio - costumes, refreshing drinks, and an atmosphere unlike anything else in the world. No stage, no barrier: just you, the music, and the most joyful crowd on the planet.
+ACTIVITIES: Street Carnival blocos
+INCLUDED: Guided blocos experience | Metro tickets
+
+Day 4 - DAY AT LEISURE
+Free day to explore Rio - Ipanema/Copacabana beaches, local restaurants, shopping.
+OPTIONAL: Guanabara Bay boat tour - one of the world's largest natural harbours (31km long, 400km2), framed by dramatic mountains, dotted with numerous islands. Listed among the Seven Natural Wonders of the Harbour of Rio de Janeiro. Activities: boat tour, panoramic views from Sugar Loaf, nearby beaches and coastal towns.
+
+Day 5 - THE SAMBODROMO - SPECIAL GROUP PARADE, NIGHT ONE
+Day at leisure in the morning. Evening: The Sambodromo opens for the first night of the Special Group parade - the most spectacular and competitive event in world Carnival. Six of Brazil's greatest Samba Schools take to the 700-metre runway, each presenting floats, costumes, percussion, and thousands of dancers (culmination of a full year of preparation). The energy is overwhelming, the colours blinding, and the sound of the bateria (drum section) physically reverberates through your chest. Group seated together in dedicated tourist Sector 9 (excellent visibility of full runway). Pre-parade drinks and snacks served for the group before departure. Dinner and drinks available at the stadium. Parade runs approximately 21:00 to 05:00. Return transfers to hotel included.
+ACTIVITIES: Rio Carnival Parade - Sambodromo
+INCLUDED: Sambodromo grandstand tickets (Special Group - tourist Sector 9) | Group transfer to/from Sambodromo | Pre-parade group gathering
+TIP: For a premium experience consider Frisas or Camarotes (exclusive hospitality areas with Food & Beverage). Recommended: Camarote Mangueira, the most traditional of the Samba Schools.
+
+Day 6 - FREE MORNING + OPTIONAL SECRET JEWELS OF RIO + FAREWELL DINNER
+Morning at leisure. Optional afternoon tour "Secret Jewels of Rio": Selaron Steps, Lapa Neighbourhood, Maranaca Stadium, Taunay Waterfall at Tijuca Forest, Sao Conrado & Barra da Tijuca Beaches with spectacular panoramic city views. Note: During Carnival some streets may be blocked or closed.
+Evening: Farewell dinner with drinks and live music.
+OPTIONAL: Jewels of Rio Tour
+INCLUDED: Free morning | Guided final Carnival experience | Farewell dinner with drinks and live music
+
+Day 7 - OPTIONAL FULL-DAY EXCURSION: ANGRA DOS REIS - ILHA GRANDE
+Optional full-day excursion to Angra dos Reis Bay and Ilha Grande. Stops: Angra dos Reis town, Cataguas Island, Ilha Grande, Lagoa Azul, Aripeba Beach, Grumixama Beach, Maguariquessaba Beach. Includes lunch. Angra dos Reis has 365 islands and over 2000 pristine beaches with impossibly blue crystalline waters. Activities: swimming, snorkelling, diving, boating, lazing on idyllic beaches, adventure trails, waterfalls.
+OPTIONAL (not included in base price)
+
+Day 8 - DEPARTURE | See you next year
+After breakfast and hotel check-out, group transfer to Galeao International Airport (GIG), timed to individual flight departures.
+INCLUDED: Hotel check-out | Group airport transfer
+
+--- INCLUDED IN PRICE ---
+- All group transfers (airport, tours, Sambodromo, farewell dinner)
+- Guided city tour: Christ the Redeemer + Sugarloaf Mountain
+- Guided blocos street Carnival experience + metro tickets
+- Sambodromo grandstand tickets - Special Group, Sector 9
+- Pre-parade group gathering with drinks and snacks
+- Farewell dinner with drinks and live music
+- Spanish/Portuguese-speaking local guide throughout
+- 7 nights Grand Mercure Rio de Janeiro Copacabana (B&B)
+
+--- NOT INCLUDED ---
 - International flights + airport taxes
-- Breakfast (included in hotel but listed as extra by operator — confirm)
-- Travel insurance (mandatory — can be arranged on request)
-- Personal expenses + gratuities
-- Most meals (except farewell dinner)
-- Carnival costumes/fantasias
-- Visa services (Schengen passport holders typically need only valid passport 180+ days)
+- Hotel accommodation (land-only packages) / Breakfast (confirm with operator)
+- Travel insurance (MANDATORY - contact OPCO Tours: carlos@opcotours.com)
+- Personal expenses, tips and gratuities (suggested: 10-15%)
+- Lunches and dinners not mentioned in programme
+- Carnival costume/fantasia (optional - available for purchase locally)
+- Visa (Schengen citizens: typically no visa needed; passport valid 180+ days required)
+- Optional excursions (Guanabara Bay tour, Angra dos Reis day trip, Jewels of Rio tour)
+- Any services not listed
 
-VISA INFO: Schengen citizens — passport valid 180+ days usually sufficient. No visa required.
-TRAVEL INSURANCE: Mandatory. Contact OPCO Tours to arrange.
+TERMS & CONDITIONS:
+IMPORTANT: All services, hotel allotments and Carnival tickets must be paid 100% in advance. NON-REFUNDABLE (Carnival policy).
 
-CARNIVAL TIPS:
-- Book Sambódromo tickets early — Sector 9 grandstand fills fast
-- Wear comfortable shoes for blocos (cobblestone streets)
-- Carry only essentials at street parties — use a money belt
-- Stay hydrated — Rio Carnival is hot and humid
-- Wear light, bright clothing or costume for blocos
+TRAVEL INFORMATION:
+Currency: Brazilian Real (R$, BRL). Banknotes: R$2, R$5, R$10, R$20, R$50, R$100. Coins: 5, 10, 25, 50 centavos, R$1.
+ATMs: Yes. Cards accepted: Mastercard, Visa, Amex, Diners Club. Banking hours: weekdays 9:00-16:00, closed weekends.
+Tap water: Do NOT drink - use bottled water.
+Climate during Carnival (Feb/Mar): Summer, average 25-30°C, hot and humid.
+Electricity: Type N plug, 127V/220V, 60Hz. Travel adapter may be needed.
+Tipping: 10-15% customary.
+Internet: Available at hotel, restaurants, cafes, shopping malls.
+
+PACKING RECOMMENDATIONS:
+Cool, light, breathable clothing. Swimming costume. Hat, sunglasses and sunblock. Walking shoes. Umbrella/raincoat. Smart-casual attire for evenings.
+
+SAFETY TIPS:
+- Keep jewellery at home or in hotel safety deposit box during Carnival
+- Carry only essentials at blocos - use a money belt
+- Stay hydrated in the heat
 - Follow your guide's instructions in crowds
-- Cash (Brazilian Real) needed for street vendors`
+- Some streets blocked/closed during Carnival days
+- Do not drink tap water`
 
 const ERROR_MSGS = {
   de: 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Reiseveranstalter.',
@@ -152,7 +205,7 @@ export default function App() {
 
     const sys =
       LANGS[lang].sysLang +
-      '\n\nYou are the official travel assistant for the Carnival trip. Answer questions accurately based on the trip information below. If something is not in the trip info, say you don\'t have that information but provide the guide or operator contact. Be concise.\n\n' +
+      '\n\nYou are the official travel assistant for the Rio Carnival 2027 - Different Roads trip by OPCO Tours. Answer questions accurately based on the trip information below. If something is not in the trip info, say you don\'t have that information but provide the operator contact. Be concise.\n\n' +
       TRIP
 
     try {
@@ -207,6 +260,7 @@ export default function App() {
           <span className="pill">🥁 Blocos</span>
           <span className="pill">⛪ Cristo Redentor</span>
           <span className="pill">🌊 Copacabana</span>
+          <span className="pill">🏝 Angra dos Reis</span>
         </div>
         <div className="lang-bar">
           {['de', 'pt', 'en', 'es'].map(l => (
